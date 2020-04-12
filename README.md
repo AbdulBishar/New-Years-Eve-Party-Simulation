@@ -1,7 +1,4 @@
 # New-Years-Eve-Party-Simulation
-This was my first completed project in Python. The objective was to develop a text based game 
-
-Text Adventure Game Development
 
 This game should utilize the Python essentials covered thus far, including, but not limited to:
 
